@@ -1,0 +1,5 @@
+*.exe
+*.old
+Program.before-*.cs
+*_edit.py
+lang_fix.py
